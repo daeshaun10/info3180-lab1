@@ -8,3 +8,26 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+h1{
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 24px;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: gray;
+  font-style: italic;
+}
+p:hover{
+  background: rgb(174, 253, 253);
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 35%;
+}
+img:hover{
+  border-radius: 70%;
+}
